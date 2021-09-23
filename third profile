@@ -1,2 +1,2 @@
 a=5 
-print('a = '+str(a)+'the quarter of a is '+str(a*a))
+print('a = '+str(a)+' The square of a = '+str(a*a))
