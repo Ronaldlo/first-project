@@ -4,7 +4,7 @@ a. Methodology
 
 This is an add-on for the Task1. Therefore, modify the main function of Task1 will be able to add the checkpoints.
 
-**First, import math and matplotlib, also set up the show_animation function.
+**First, import math and matplotlib, also set up the show_animation function.**
 ```python
 import math
 
@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 show_animation = True
 ```
-**Second, imply the AStar Algorithm demo.
+**Second, imply the AStar Algorithm demo.**
 ```python
 class AStarPlanner:
 
@@ -277,7 +277,7 @@ class AStarPlanner:
         return motion
 
 ```
-**The most important part is modifying the main function.
+**The most important part is modifying the main function.**
 ```python
 def main():
     print(__file__ + " Start the A star algorithm demo with 2 checkpoints !!") # print simple notes
@@ -377,7 +377,7 @@ def main():
         plt.plot(50,50, "xk") # plot the end position
         plt.show() # show the plot
 ```
-**At the end, call the main function to plot the graph.
+**At the end, call the main function to plot the graph.**
 ```python
 if __name__ == '__main__':
     main()
