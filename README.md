@@ -1,4 +1,4 @@
-## Task4
+## Task4.1 Adding checkpoints
 
 ### a. Methodology
 
@@ -383,3 +383,14 @@ if __name__ == '__main__':
     main()
 ```
 ### b. Results
+
+
+### c. Discussion
+
+## Task 4.2 Changing Environment
+
+### a. Methodology
+
+### b. Results
+
+### c.
