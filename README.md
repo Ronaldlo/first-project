@@ -1,6 +1,6 @@
 ## Task4
 
-a. Methodology
+### a. Methodology
 
 This is an add-on for the Task1. Therefore, modify the main function of Task1 will be able to add the checkpoints.
 
@@ -382,3 +382,4 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+### b. Results
